@@ -35,8 +35,6 @@
     "@achingbrain/ssdp": "^4.2.1",
     "@crowdin/ota-client": "^1.1.3",
     "adm-zip": "^0.5.16",
-    "airtunes2": "github:ciderapp/node_airtunes2",
-    "castv2-client": "github:ciderapp/node-castv2-client",
     "chokidar": "^3.6.0",
     "discord-auto-rpc": "^1.0.17",
     "ejs": "^3.1.10",
